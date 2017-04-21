@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Guessnumber 
+activity_version = 11
+host_version = 1
+service_name = net.gcompris.guessnumberActivity
+bundle_id = net.gcompris.guessnumberActivity
+icon = activity-gcompris
+exec = gcompris-activity
+show_launcher = yes
+license = GPLv3+
